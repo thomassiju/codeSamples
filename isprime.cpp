@@ -13,7 +13,7 @@ int isPrime(int num){
             cout << "Not a prime number. Number is a multiple of " << i << endl;
             cout << " Number of steps: " << steps << endl;
             j = 1;
-            break
+            break;
         }
     } 
     if (j==0){
